@@ -1,4 +1,4 @@
-### Olá, eu sou o Luís Henrique 👋
+### Olá! Eu sou o Luís Henrique 👋
 
 
 
