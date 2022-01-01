@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando: Python, JS e Frameworks.
+- 🌱 Estudando: Desenvolvimento Web.
 - 📫 Contato: luishennrique@live.com / Telegram: @luishennrick.
 
 <div>
