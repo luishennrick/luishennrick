@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando: Desenvolvimento Web.
+- 🌱 Desenvolvimento Web.
 - 📫 Contato: luishennrique@live.com / Telegram: @luishennrick.
 
 <div>
