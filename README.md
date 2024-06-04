@@ -3,7 +3,7 @@
 
 
 - 🌱 Desenvolvimento Web.
-- 📫 Contato: luishennrique@live.com / Telegram: @luishennrick.
+- 📫 Contato: Telegram: @luishennrick.
 
 <div>
   <a href="https://github.com/luishennrick">
